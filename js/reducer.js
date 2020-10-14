@@ -9,7 +9,7 @@ function changeState(state, action){
   }
 }
 
-let state = {count: 0}
+
 
 
 changeState(state, action)
